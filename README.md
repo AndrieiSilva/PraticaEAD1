@@ -1,6 +1,6 @@
 # Exercício prático 1 de EAD1
 ### Nome: Andriei Roshild da Silva
-### Disciplina: Algorítmos e Estruturas de Dados I
+### Disciplina: Algoritmos e Estruturas de Dados I
 ### Matrícula: 24100717
 ### Turma: M2
 ### Instituição de Ensino: Universidade Federal de Pelotas
@@ -17,6 +17,6 @@ Given a string s, return the longest substring of s that is nice. If there are m
 s consists of uppercase and lowercase English letters.
 
 # Realização do exercício:
-Realizei parte do exercício em aula, quando cheguei em casa não consigui fazer ele funcionar (Não estava verificando os ocorrências corretamente). Acabei por decidir iniciar do zero, tentando resolver o probelma de forma diferente, mas no quando terminei o problema estava com difilcudade de retirar a _substring_ necessária que precisava retornar (fiquei 2 horas tentando arrumar). Tentei realizar _novamente_ a atividade de outros jeitos (no meio dos problemas percebi que não ia dar certo, passei quase 2 horas nisso). Depois disso, decidi consultar as soluções de outras pessoas, a fim de ter alguma ideia de como realizar a atividade. Achei algumas mais simples que não entendia como funcionava e fiquei 3 horas pesquisando o que estava acontecendo nas soluções das outras pessoas e o porque estava correto, no final quando entendi como funcionava decidi tentar fazer sem consultar outras soluções e acabei conseguindo realizar a tarefa.
+Realizei parte do exercício em aula, quando cheguei em casa não consegui fazê-lo funcionar (Não estava verificando as ocorrências corretamente). Acabei por decidir iniciar do zero, tentando resolver o problema de forma diferente, mas no quando terminei o problema estava com dificuldade de retirar a _substring_ necessária que precisava retornar (fiquei 2 horas tentando arrumar). Tentei realizar _novamente_ a atividade de outros jeitos (no meio dos problemas percebi que não ia dar certo, passei quase 2 horas nisso). Depois disso, decidi consultar as soluções de outras pessoas, a fim de ter alguma ideia de como realizar a atividade. Achei algumas mais simples que não entendia como funcionava e fiquei 3 horas pesquisando o que estava acontecendo nas soluções das outras pessoas e o porquê estava correto, no final quando entendi como funcionava decidi tentar fazer sem consultar outras soluções e acabei conseguindo realizar a tarefa.
 
 # Link do SUBMIT do LeetCode: https://
